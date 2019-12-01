@@ -1,4 +1,4 @@
-package num283;
+package simple.num283;
 
 /**
  * @author :zhangshengjun

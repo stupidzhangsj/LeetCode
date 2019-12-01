@@ -1,4 +1,4 @@
-package num75;
+package medium.num75;
 
 /**
  * @author :zhangshengjun

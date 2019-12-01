@@ -1,4 +1,4 @@
-package num300;
+package medium.num300;
 
 import java.util.Arrays;
 
